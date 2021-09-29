@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DNA PROTOCOL
 
 # Quick Start :
@@ -91,3 +92,7 @@ You can modify the source code and run your own network, to generate the first c
 ## Sergio Valdés Valdés : Creator of the DNA PROTOCOL
 
 ## Work email : sergiovaldes2310@outlook.com
+=======
+# DNA-Protocol
+Alternative technology to the traditional blockchain
+>>>>>>> 8082cdb4f23f3f4f2fe928403ad2280153c26e01
