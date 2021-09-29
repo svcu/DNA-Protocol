@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # DNA PROTOCOL
 
 # Quick Start :
