@@ -83,7 +83,7 @@ You can modify the source code and run your own network, to generate the first c
 
 # Additional Resources
 
-## [DNA SIGNING TOOL](https://www.example.com)
+## [DNA SIGNING TOOL](https://github.com/svcu/DNA-Signing-tool)
 
 ## [DNA WALLET GENERATOR](https://github.com/svcu/DNA-Wallet-Generator)
 
