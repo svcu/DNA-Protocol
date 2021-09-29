@@ -85,7 +85,7 @@ You can modify the source code and run your own network, to generate the first c
 
 ## [DNA SIGNING TOOL](https://www.example.com)
 
-## [DNA WALLET GENERATOR](https://www.example.com)
+## [DNA WALLET GENERATOR](https://github.com/svcu/DNA-Wallet-Generator)
 
 # Credits
 
