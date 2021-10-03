@@ -19,7 +19,7 @@ Download the **DNA SIGNING TOOL** and the **DNA WALLET GENERATOR** below to get 
 
 **THE DNA PROTOCOL IS IN CONSTANT DEVELOPMENT MAY HAVE SOME SECURITY PROBLEMS AND ERRORS PLEASE TEST THE DNA PROTOCOL AND OPEN AN ISSUE IF YOU HAVE ANY PROBLEM**
 
-The **DNA PROTOCOL** is an **alternative** to blockchain technology in finance. The DNA PROTOCOL aims to make transactions in a **faster** way than on the blockchain, **cheaper** than on the blockchain and **secure** as on the blockchain, in other words it is **BLOCKCHAIN ​​2.0**. The **DNA PROTOCOL**, generates the coins when making transactions, for each validated transaction (Explained below) 0.004 coins will be generated
+The **DNA PROTOCOL** is an **alternative** to blockchain technology in finance. The DNA PROTOCOL aims to make transactions in a **faster** way than on the blockchain, **cheaper** than on the blockchain and **secure** as on the blockchain, in other words it is **BLOCKCHAIN ​​2.0**. The **DNA PROTOCOL**, generates the coins when making transactions, for each validated transaction (Explained below) 0.4 coins will be generated
 
 ---
 
@@ -79,7 +79,7 @@ Suppose we have three nodes Alice, Bob, and Jacob. Initially, Bob, Alice and Jac
 
 # Starting your own network
 
-You can modify the source code and run your own network, to generate the first coin you need to make a transaction of 0 value, this will generate the first 0.004 coins and give them to the validator node, then you can start transacting, foreach transaction validated nw coins will be generated
+You can modify the source code and run your own network, to generate the first coin you need to make a transaction of 0 value, this will generate the first 0.4 coins and give them to the validator node, then you can start transacting, foreach transaction validated nw coins will be generated
 
 # Additional Resources
 
