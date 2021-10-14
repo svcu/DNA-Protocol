@@ -190,7 +190,7 @@ app.post("/consensus", (req, res) => {
   }
 });
 
-//TEST ***********************
+//TEST Some of this endpoints are dead for security reasons ***********************
 
 app.get("/new-address", (req, res) => {
   res.send(DNAChain.createAddress());
